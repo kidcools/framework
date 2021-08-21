@@ -1,0 +1,9 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: sb
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: always
