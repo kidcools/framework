@@ -11,7 +11,13 @@
     <modules>
         <module>common</module>
         <module>sb</module>
-
+        <module>sb-mp-dr</module>
+        <module>sb-mp-dr-redis</module>
+        <module>sp-jedis</module>
+        <module>n-f-sb-mp-dr</module>
+        <module>n-f-sb-mp-dr2</module>
+        <module>n-f-sb-mq</module>
+        <module>n-f-sb-redisson</module>
     </modules>
 
     <properties>
